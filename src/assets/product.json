@@ -1,0 +1,44 @@
+[
+    {
+      "name": "lamborghini",
+      "cost": "$99,999",
+      "image":
+        "https://qph.fs.quoracdn.net/main-qimg-86b038c6f6c6fc727177795c4772f84e"
+    },
+    {
+      "name": "Ferrari",
+      "cost": "$96,543",
+      "image":
+        "https://i.insider.com/561d30b99dd7cc1a008c1522"
+    },
+    {
+      "name": "BMW",
+      "cost": "$92,543",
+      "image":
+        "https://d2db4vnz3jmhyg.cloudfront.net/images-2016/hatchback-2.jpg"
+    },
+    {
+      "name": "Ferrari TZ2",
+      "cost": "$89,543",
+      "image":
+        "https://images-eu.ssl-images-amazon.com/images/I/41gUMrvnMWL._SY300_QL70_ML2_.jpg"
+    },
+    {
+      "name": "Dodge",
+      "cost": "$78,543",
+      "image":
+        "https://1umhfv4anmt642s3e11sxqst-wpengine.netdna-ssl.com/wp-content/uploads/2015/11/XXD19-SW-Website-Thumbnails-570S-300x300.jpg"
+    },
+    {
+      "name": "Genesis",
+      "cost": "$90,543",
+      "image":
+        "https://kidsvip.ca/wp-content/uploads/2020/08/2_seats_lamborghini_ride_on_kids_and_toddlers_ride_on_car_12v-1-300x300.jpg"
+    },
+    {
+      "name": "Hyundai",
+      "cost": "$86,543",
+      "image":
+        "https://www.car-iconics.com/wp-content/uploads/2020/08/001_JaguarXK150_CarIconics_August2020_D4J8216LR-300x300.jpg"
+    }
+  ]
